@@ -8,7 +8,11 @@
 
 管理员功能：请假审批管理、考勤管理、工资管理、五险一金管理、角色权限管理、部门管理、文件管理、员工管理等
 
+## 获取方式
 
+扫描下方，回复关键词  ：**员工** ，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 ## 2、项目技术
 
 后端框架：springboot、Mybatis
