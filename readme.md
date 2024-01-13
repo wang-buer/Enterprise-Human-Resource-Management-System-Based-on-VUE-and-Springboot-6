@@ -8,11 +8,7 @@
 
 管理员功能：请假审批管理、考勤管理、工资管理、五险一金管理、角色权限管理、部门管理、文件管理、员工管理等
 
-## 获取方式
 
-扫描下方，回复关键词  ：**员工** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 ## 2、项目技术
 
 后端框架：springboot、Mybatis
@@ -31,58 +27,51 @@
 - 硬件环境：Windows
 - nodeJS: 14+
 
-### 获取方式&视频演示
 
-下方扫一下，回复关键词：员工
-
-![202309291447341](https://s2.loli.net/2023/10/09/4H5AFMoS61egzxb.png)
 
 
 ## 4、功能介绍
 
 ### 4.1 登录
 
-![登录](https://s2.loli.net/2023/10/10/hmcjvxeuGoRB4YN.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202311152202745.jpg)
 
 ### 4.2 管理员模块
 
-![首页](https://s2.loli.net/2023/10/10/w5nizqdZ4xsXN2T.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202311152202681.jpg)
 
-![请假1](https://s2.loli.net/2023/10/10/87txfsZ4Pa1jDmI.jpg)
+![部门管理](https://www.codeshop.fun/Typora-Images/202311152202277.jpg)
 
-![请假记录](https://s2.loli.net/2023/10/10/3gqah4ELdOb9C1S.jpg)
+![菜单权限管理](https://www.codeshop.fun/Typora-Images/202311152202299.jpg)
 
-![请假审批管理](https://s2.loli.net/2023/10/10/WrgGyEvliK6wdIp.jpg)
+![参保城市管理](https://www.codeshop.fun/Typora-Images/202311152202310.jpg)
 
-![考勤管理](https://s2.loli.net/2023/10/10/YCxAI7XLdWQEocg.jpg)
+![工资管理](https://www.codeshop.fun/Typora-Images/202311152202942.jpg)
 
-![参保城市管理](https://s2.loli.net/2023/10/10/ATtNmPD7fa6SZ1M.jpg)
+![角色权限管理](https://www.codeshop.fun/Typora-Images/202311152202254.jpg)
 
-![工资管理](https://s2.loli.net/2023/10/10/zo6OFBGfdvtChr9.jpg)
+![考勤管理](https://www.codeshop.fun/Typora-Images/202311152202293.jpg)
 
-### ![五险一金管理](https://s2.loli.net/2023/10/10/3S89sjt6wNofcHL.jpg)
+![请假1](https://www.codeshop.fun/Typora-Images/202311152202270.jpg)
 
-![角色权限管理](https://s2.loli.net/2023/10/10/rC1Khp4tXNM5zUj.jpg)
+![请假记录](https://www.codeshop.fun/Typora-Images/202311152202272.jpg)
 
-![菜单权限管理](https://s2.loli.net/2023/10/10/FE82utiz6McodQj.jpg)
+![请假审批管理](https://www.codeshop.fun/Typora-Images/202311152202283.jpg)
 
-![部门管理](https://s2.loli.net/2023/10/10/4dzK25tBlmJ9oDA.jpg)
+![文件管理](https://www.codeshop.fun/Typora-Images/202311152202315.jpg)
 
-![文件管理](https://s2.loli.net/2023/10/10/39lQjOAEobzSDNT.jpg)
+![五险一金管理](https://www.codeshop.fun/Typora-Images/202311152202551.jpg)
 
-![员工管理](https://s2.loli.net/2023/10/10/9BzrSJmPoYe6Nyd.jpg)
+![员工管理](https://www.codeshop.fun/Typora-Images/202311152202696.jpg)
 
 ### 4.3文档目录
 
-![文档目录](https://s2.loli.net/2023/10/10/7BCQtj3NRcIxE8H.jpg)
 
-### 获取方式&视频演示
-
-下方扫一下，回复关键词：员工
-
-![202309291447341](https://s2.loli.net/2023/10/06/lxLMirNn2tyaIob.png)
+![文档目录](https://www.codeshop.fun/Typora-Images/202311152202752.jpg)
 
 
+## 获取方式
 
+下方扫一扫关注后，后台回复关键词：**员工**，查看导入教程视频、sql脚本和源码等
 
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
